@@ -1,0 +1,22 @@
+#+title: Todo
+
+
+
+* TODO [5/17]
+    * [X] updates
+    * [X] join
+    * [ ] order
+    * [ ] many selects
+    * [ ] inserts init takes all values, might not be true in complex queries
+    * [X] like
+    * [ ] update with very long string
+    * [X] update with null value
+    * [X] make index to accept the null byte
+    * [ ] transaction
+    * [ ] what's default handler
+    * [ ] fix aggr order issue
+    * [ ] there is no need to return in get_subfilter
+    * [ ] problem when select same table, select * from t,t;
+    * [ ] unique多条
+    * [ ] 过长的string
+    * [ ] compute_value_from_select can take fieldmeta
